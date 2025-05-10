@@ -5,6 +5,9 @@
   "hideBottomStatusBarIndicatorText": false,
   "enableCompatQuickExplorer": false,
   "attachmentFolderNames": [
-    ""
+    "docs",
+    "node_modules",
+    "src",
+    "static"
   ]
 }

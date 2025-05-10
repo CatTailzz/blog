@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "784fce448566ef11",
+        "id": "db5a74d556267389",
         "type": "tabs",
         "children": [
           {
-            "id": "8233db251dcb0c70",
+            "id": "56f464176bb20888",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,6 +166,7 @@
   },
   "active": "240ac7cbc863a5a2",
   "lastOpenFiles": [
+    "node_modules/sitemap/api.md",
     "🧠brain/💚health/买衣服指南.md",
     "README.md",
     "content/About.md",
@@ -197,7 +198,6 @@
     "🗑️archive/研究生科研记录/改进.md",
     "🗑️archive/研究生科研记录/论文语料.md",
     "🗑️archive/研究生科研记录/MAE探索过程.md",
-    "🗑️archive/研究生科研记录/实验结果.md",
     "🗑️archive/研究生科研记录/毕业论文",
     "🗑️archive/研究生科研记录",
     "🗑️archive",
