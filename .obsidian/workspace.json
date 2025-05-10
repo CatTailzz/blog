@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e758d18c355a76aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "784fce448566ef11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8233db251dcb0c70",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fca45bb117c7cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c8ab528de7328e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240ac7cbc863a5a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "da372f2f98edb4f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f6bfb5986a42db45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "d5e1f5aaf555b617",
+    "type": "split",
+    "children": [
+      {
+        "id": "0418e46c00e9edf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3621c20d31911381",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🏡knowledgeGarden/🎓科研记录/毕业论文/进度.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "进度 的反向链接列表"
+            }
+          },
+          {
+            "id": "8f0e392d7470ce00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🏡knowledgeGarden/🎓科研记录/毕业论文/进度.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "进度 的出链列表"
+            }
+          },
+          {
+            "id": "899883b800b7b01e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3c71489ad5b6ab85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🏡knowledgeGarden/🎯TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "🎯TODO 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "240ac7cbc863a5a2",
+  "lastOpenFiles": [
+    "🧠brain/💚health/买衣服指南.md",
+    "README.md",
+    "content/About.md",
+    "🧠brain/💭thinking/😎碎碎念/2025.4.19.md",
+    "🧠brain/💭thinking/😎碎碎念/2024.3.2.md",
+    "🧠brain/💭thinking/😎碎碎念/2024.8.11.md",
+    "🧠brain/💭thinking/😎碎碎念/2023.5.12.md",
+    "🧠brain/💭thinking/😎碎碎念/2023.4.16.md",
+    "🧠brain/💭thinking/😎碎碎念",
+    "🧠brain/MyFlag.md",
+    "🧠brain/💚health",
+    "🧠brain/💭thinking",
+    "🧠brain/📷photography",
+    "🧠brain/💰finance",
+    "🧠brain",
+    "🗑️archive/研究生科研记录/毕业论文/进度.md",
+    "🗑️archive/研究生科研记录/毕业论文/致谢.md",
+    "🗑️archive/研究生科研记录/毕业论文/第二点的损失函数改进.md",
+    "🗑️archive/研究生科研记录/毕业论文/相关理论和技术介绍.md",
+    "🗑️archive/研究生科研记录/毕业论文/毕业论文语料库.md",
+    "🗑️archive/研究生科研记录/毕业论文/摘要.md",
+    "🗑️archive/研究生科研记录/毕业论文/总结与展望.md",
+    "🗑️archive/研究生科研记录/毕业论文/大纲.md",
+    "🗑️archive/研究生科研记录/毕业论文/国内外研究现状.md",
+    "🗑️archive/研究生科研记录/毕业论文/可验证常数的计算问题.md",
+    "🗑️archive/研究生科研记录/毕业论文/什么是可验证常数？.md",
+    "🗑️archive/研究生科研记录/毕业论文/3.基于对抗净化与全局平滑的随机平滑认证方法.md",
+    "🗑️archive/研究生科研记录/毕业论文/4.基于高效微调的去噪平滑优化方法.md",
+    "🗑️archive/研究生科研记录/改进.md",
+    "🗑️archive/研究生科研记录/论文语料.md",
+    "🗑️archive/研究生科研记录/MAE探索过程.md",
+    "🗑️archive/研究生科研记录/实验结果.md",
+    "🗑️archive/研究生科研记录/毕业论文",
+    "🗑️archive/研究生科研记录",
+    "🗑️archive",
+    "📝drafts",
+    "my-blog/node_modules/@docusaurus/logger/demo.png",
+    "my-blog/node_modules/renderkid/docs/images/usage.png",
+    "my-blog/node_modules/renderkid/docs/images/display.png",
+    "my-blog/node_modules/renderkid/docs/images/bullets-1.png",
+    "my-blog/node_modules/detect-port-alt/logo.png",
+    "my-blog/node_modules/serve-index/public/icons/page_world.png",
+    "my-blog/node_modules/serve-index/public/icons/page_word.png",
+    "my-blog/node_modules/serve-index/public/icons/page_white_zip.png",
+    "my-blog/node_modules/serve-index/public/icons/page_white_world.png",
+    "my-blog/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "未命名.canvas"
+  ]
+}
